@@ -9,3 +9,5 @@ A place for me to learn all kinds of JS frameworks
 * Backbonejs Branch: backbone
 * Emberjs    Branch: ember
 * Vuejs      Branch: vue
+* Mithril    Branch: mithril
+* ES6 Custom Branch: mattjs
