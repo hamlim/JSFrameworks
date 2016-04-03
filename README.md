@@ -8,3 +8,4 @@ A place for me to learn all kinds of JS frameworks
 * React      Branch: react
 * Backbonejs Branch: backbone
 * Emberjs    Branch: ember
+* Vuejs      Branch: vue
