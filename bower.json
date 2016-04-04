@@ -29,6 +29,6 @@
     "tests"
   ],
   "dependencies": {
-    "AngularJS": "angular-latest#^1.5.3"
+    "angular": "angular#^1.5.3"
   }
 }
