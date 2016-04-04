@@ -12,3 +12,8 @@ A place for me to learn all kinds of JS frameworks
 * Mithril    Branch: mithril     => http://lhorie.github.io/mithril/index.html
 * ES6 Custom Branch: mattjs      => No Link Yet
 * JS Blocks  Branch: jsblocks    => http://jsblocks.com/
+
+
+# Current Branch: VUEjs
+
+Using version: 1.0.20
