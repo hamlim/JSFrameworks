@@ -1,0 +1,31 @@
+{
+  "name": "JSFrameworks",
+  "homepage": "https://github.com/hamlim/LearningAngularJS",
+  "authors": [
+    "hamlim <hamlim@rpi.edu>"
+  ],
+  "description": "A simple JS framework dev repo",
+  "main": "index.html",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "Frameworks",
+    "Javascript",
+    "Angular",
+    "React",
+    "Ember",
+    "Mithril",
+    "Vue",
+    "Backbone"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
