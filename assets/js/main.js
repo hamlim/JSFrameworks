@@ -2,6 +2,6 @@
 
 console.log("lets test imports!");
 
-let elem = es("header", false);
+var elem = es("#foo", false);
 
 console.log(elem);
