@@ -12,3 +12,12 @@ A place for me to learn all kinds of JS frameworks
 * Mithril    Branch: mithril     => http://lhorie.github.io/mithril/index.html
 * ES6 Custom Branch: mattjs      => No Link Yet
 * JS Blocks  Branch: jsblocks    => http://jsblocks.com/
+
+
+# Current Branch:
+
+# ANGULARJS
+
+This is the angularjs branch in the JSFrameworks repo, this is currently using Angular 1.5.3
+
+(I may consider adding a separate branch for Angular2 using Typescript later on)

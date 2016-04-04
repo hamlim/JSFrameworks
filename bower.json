@@ -27,5 +27,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "AngularJS": "angular-latest#^1.5.3"
+  }
 }
