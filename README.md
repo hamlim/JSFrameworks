@@ -16,3 +16,5 @@ A place for me to learn all kinds of JS frameworks
 # Current Branch:
 
 # MITHRIL js
+
+Version 0.2.3
